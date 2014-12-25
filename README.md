@@ -7,7 +7,7 @@ The cherry project is not distributed as a big "all-in-one" jar, but as multiple
 
 ## Sub-projects
 Currently the cherry project contains the following sub-projects:
-* [reflect](https://github.com/codereligion/reflect)
+* [reflect](https://github.com/codereligion/cherry-reflect)
 * [collect](https://github.com/codereligion/cherry-collect)
 
 ## Attributions
