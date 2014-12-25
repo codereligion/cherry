@@ -1,4 +1,4 @@
-# The cherry project
+# The cherry project![cherry-logo](https://raw.githubusercontent.com/codereligion/cherry/master/small-cherry.png)
 
 ## Overview
 The cherry project is a collection of utility classes similar to [Apache Commons](http://commons.apache.org/) and [Google Guava](https://code.google.com/p/guava-libraries/). Its main purpose is to provide functionality which is missing in the previously mentioned projects. 
